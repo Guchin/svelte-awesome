@@ -19,7 +19,7 @@ A demo is available [here][demo]
 ## Installation
 ### NPM
 ```
-$ npm install --save svelte-awesome
+$ npm install --save svelte-moreicons
 ```
 
 ## Usage
