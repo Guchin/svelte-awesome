@@ -1,5 +1,5 @@
 {
-  "name": "svelte-awesome",
+  "name": "svelte-moreicons",
   "version": "2.3.0",
   "description": "Font Awesome component for Svelte JS, using inline SVG",
   "module": "dist/svelte-awesome.mjs",
